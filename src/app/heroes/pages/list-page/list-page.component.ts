@@ -18,8 +18,5 @@ export class ListPageComponent implements OnInit {
     this.heroesService.getHeroes()
     .subscribe(heroes => this.heroes = heroes)
   }
-
-
-
-
+  
 }
