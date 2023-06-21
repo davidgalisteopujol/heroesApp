@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "usuario": "John Doe",
+      "user": "John Doe",
       "email": "john.due@gmail.com"
     }
   ],
@@ -168,6 +168,15 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "0QorQJU",
+      "superhero": "Venom",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Eddie Brock",
+      "first_appearance": "Comic 252",
+      "characters": "Eddie Brock",
+      "alt_img": "https://i.pinimg.com/736x/9b/49/42/9b4942b821d0be52c201c74ef849be7d.jpg"
     }
   ]
 }
